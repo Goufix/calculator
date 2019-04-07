@@ -1,6 +1,6 @@
-import React from 'react';
-import { StyleSheet, Dimensions } from 'react-native';
-import { wrap } from 'module';
+import React from 'react'
+import { StyleSheet, Dimensions } from 'react-native'
+import { wrap } from 'module'
 
 const styles = StyleSheet.create({
   button: {
@@ -36,5 +36,5 @@ const styles = StyleSheet.create({
     fontSize: 40,
     color: '#FFF'
   }
-});
-export default styles;
+})
+export default styles
